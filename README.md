@@ -1,8 +1,20 @@
-# Syntasia
+# Lightweight Design Wiki
 
 [![Documentation Status](https://readthedocs.org/projects/syntasia/badge/?version=latest)](https://syntasia.readthedocs.io/en/latest/?badge=latest)
 
 
-> A Framework for interactive Pen-and-Paper adventures
+> Wiki for common practices in lightweight design
 
-See the [Documentation](https://syntasia.readthedocs.io/en/latest/) for more information.
+See the [Documentation](https://ldesign.readthedocs.io/en/latest/) for more information.
+
+## MKDOCS
+
+install dependencies:
+```sh
+pip install -r requirements.txt
+```
+
+local serve:
+```sh
+mkdocs serve
+```

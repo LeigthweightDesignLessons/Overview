@@ -1,5 +1,5 @@
-site_name: Syntasia
-site_url: https://syntasia.readthedocs.io/en/latest/?badge=latest
+site_name: Lightweight Design Wiki
+site_url: https://ldesign.readthedocs.io/en/latest/?badge=latest
 
 theme:
   name: material
@@ -28,8 +28,8 @@ theme:
   favicon: img/favicon.png
   language: en
 
-repo_url: https://github.com/willi-z/Syntasia
-edit_uri: https://github.com/willi-z/Syntasia/tree/main/docs
+repo_url: https://github.com/willi-z/ldesign
+edit_uri: https://github.com/willi-z/ldesign/tree/main/docs
 docs_dir: "docs"
 site_dir: build/wiki
 
@@ -79,28 +79,27 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-    - Introduction:
+    - Einführung:
         - Home: README.md
-        - Getting Started: getting-started.md
-    - Framework: 
-        - Introduction: framework/README.md
-        - Attributes and Skills: framework/attributes_and_skills.md
-        - Checks: framework/checks.md
-        - Challenges: framework/problem_solving.md
-        - Fighting: framework/fighting.md
-        - Progression: framework/progression.md
-    - Lores: 
-        - Overview: lores/README.md
-        - Dreamland: 
-            - Introduction: lores/dreamland/README.md
-            - Races: lores/dreamland/races.md
-            - Geografie: lores/dreamland/geography.md
-            - Items: lores/dreamland/items.md
-            - Characters: lores/dreamland/characters.md
-            - Adventures: 
-                - Overview: lores/dreamland/adventures/README.md
-                - Royal Madness: lores/dreamland/adventures/royal_madness/README.md
-        - Dark Times: lores/dark_times/README.md
-    - References:
-        - Charakter-Editor: references/charackter_editors.md
+        - Vorraussetzungen: getting-started.md
+    - Material: 
+        - Grundlagen: material/README.md
+        - RVEs: material/rve.md
+        - Eigenschaften: material/properties.md
+        - Versagen: 
+            - Übersicht: material/failure.md
+            - Faserbruch: material/rupture.md
+            - Delaminierung: material/delamination.md
+    - Herstellung: 
+        - Übersicht: manufacturing/README.md
+        - Faserrichtung: manufacturing/direction.md
+    - Konstruktion:
+        - Grundlagen: design/README.md
+        - Formen: design/geometry.md
+        - Parametrisierung: design/parameterization.md
+    - Simulation:
+        - Grundlagen: simulation/README.md
+        - Vernetzung: simulation/mesh.md
+        - Optimierung: simulation/optimization.md
+    - Quellen: references.md
     - About: about.md

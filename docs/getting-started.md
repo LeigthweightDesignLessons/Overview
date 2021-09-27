@@ -1,8 +1,23 @@
-# Getting Started
+# Vorraussetzungen
+
+## ANSYS
+
+https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
+
+??? "Example"
+    test
+
+=== "Tab"
+    test
+
+!!! note
+    test
+
+**bold**
+
+## LS-DYNA
 
 
-1. Find a Group
-2. Read the Framework
-3. Choose a Lore
-4. Create a Character
-5. Begin your Adventure!
+
+
+

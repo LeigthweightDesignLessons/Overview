@@ -1,3 +1,3 @@
-# Syntasia
+# Konstruktion und Berechnung von Leichtbaustrukturen
 
-Syntasia is simple frameworks for cool, interactive and epic pen-and-paper adventures.
+Leichtbaustrukturen sind cool!
