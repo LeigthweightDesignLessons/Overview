@@ -1,6 +1,6 @@
 # Lightweight Design Wiki
 
-[![Documentation Status](https://readthedocs.org/projects/syntasia/badge/?version=latest)](https://syntasia.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/ldesign/badge/?version=latest)](https://syntasia.readthedocs.io/en/latest/?badge=latest)
 
 
 > Wiki for common practices in lightweight design
