@@ -77,8 +77,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.snippets
 
 nav:
     - Einführung:
