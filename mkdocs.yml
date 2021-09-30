@@ -113,5 +113,9 @@ nav:
             - Übersicht: software/LSDYNA.md
             - ANSYS-Module: software/LSDYNA-ANSYS.md
             - PREPOST: software/LSDYNA-PREPOST.md
+    - Übungen:
+        - "Erstellung eines Verbundwerkstoffes": examples/custom_material.md
+        - "Versagen eines Faser": examples/fiber_falure.md
+        - "Kugeleinschlag": examples/sphere_impact.md
     - Quellen: references.md
     - About: about.md
