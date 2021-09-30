@@ -117,5 +117,6 @@ nav:
         - "Erstellung eines Verbundwerkstoffes": examples/custom_material.md
         - "Versagen eines Faser": examples/fiber_falure.md
         - "Kugeleinschlag": examples/sphere_impact.md
+        - "Parameterstudien": examples/parameter_studies.md
     - Quellen: references.md
     - About: about.md
