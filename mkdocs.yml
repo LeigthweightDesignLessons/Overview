@@ -77,6 +77,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.superfences
 
 nav:
     - Einführung:
@@ -101,5 +103,6 @@ nav:
         - Grundlagen: simulation/README.md
         - Vernetzung: simulation/mesh.md
         - Optimierung: simulation/optimization.md
+        - Software: simulation/software.md
     - Quellen: references.md
     - About: about.md
