@@ -1,0 +1,3 @@
+# Materialeigenschaften
+
+## Spezifische Festigkeit

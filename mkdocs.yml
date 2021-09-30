@@ -86,12 +86,12 @@ nav:
         - Vorraussetzungen: getting-started.md
     - Material: 
         - Grundlagen: material/README.md
-        - RVEs: material/rve.md
         - Eigenschaften: material/properties.md
         - Versagen: 
             - Übersicht: material/failure.md
             - Faserbruch: material/rupture.md
             - Delaminierung: material/delamination.md
+        - RVEs: material/rve.md
     - Herstellung: 
         - Übersicht: manufacturing/README.md
         - Faserrichtung: manufacturing/direction.md
@@ -103,6 +103,15 @@ nav:
         - Grundlagen: simulation/README.md
         - Vernetzung: simulation/mesh.md
         - Optimierung: simulation/optimization.md
-        - Software: simulation/software.md
+    - Software:
+        - Übersicht: software/README.md
+        - ANSYS:
+            - Übersicht: software/ANSYS.md
+            - SpaceClaim: software/ANSYS-SpaceClaim.md
+            - "Material Designer": software/ANSYS-Material_Designer.md
+        - LS-DNYA:
+            - Übersicht: software/LSDYNA.md
+            - ANSYS-Module: software/LSDYNA-ANSYS.md
+            - PREPOST: software/LSDYNA-PREPOST.md
     - Quellen: references.md
     - About: about.md
