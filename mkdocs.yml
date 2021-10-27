@@ -109,6 +109,8 @@ nav:
             - Übersicht: software/ANSYS.md
             - SpaceClaim: software/ANSYS-SpaceClaim.md
             - "Material Designer": software/ANSYS-Material_Designer.md
+            - "ACP": software/ANSYS-ACP(PRE).md
+            - "Static Structural Analysis": software/ANSYS-StaticStructuralAnalysis.md
         - LS-DNYA:
             - Übersicht: software/LSDYNA.md
             - ANSYS-Module: software/LSDYNA-ANSYS.md
