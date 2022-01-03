@@ -27,7 +27,7 @@ Für Faserverbundwerkstoffe empfiehlt sich ein System mit Millimetern(MPA) zu ne
 <img src="https://www.toray.eu/de/products/images/car_003_img_01.jpg" width="300"/>
 
 <table><tr>
-    <td> <img src="../../img/software/ansys-acp-fabrics-general.png" width="300"/> </td>
+    <td> <img src="../../img/software/ansys-acp-fabrics-general.PNG" width="300"/> </td>
     <td> <img src="../../img/software/ansys-acp-fabrics-analysis.png" width="300"/> </td>
 </tr></table>
 
