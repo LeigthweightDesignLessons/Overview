@@ -20,7 +20,7 @@ Für Faserverbundwerkstoffe empfiehlt sich ein System mit Millimetern(MPA) zu ne
 
 ### Materials
 
-<img src="../../img/software/ansys-acp-materials.png" width="300"/>
+<img src="../../img/software/ansys-acp-materials.PNG" width="300"/>
 
 ### Fabrics
 
