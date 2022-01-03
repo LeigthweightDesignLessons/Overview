@@ -34,8 +34,8 @@ Für Faserverbundwerkstoffe empfiehlt sich ein System mit Millimetern(MPA) zu ne
 ### Stackup
 <img src="https://www.compositeshop.de/xoshop/images/thumbnail/produkte/large/carbon_fiber_plate__1_.jpg" width="300"/>
 <table><tr>
-    <td> <img src="../../img/software/ansys-acp-stackup-general.png" width="300"/> </td>
-    <td> <img src="../../img/software/ansys-acp-stackup-analysis.png" width="300"/> </td>
+    <td> <img src="../../img/software/ansys-acp-stackup-general.PNG" width="300"/> </td>
+    <td> <img src="../../img/software/ansys-acp-stackup-analysis.PNG" width="300"/> </td>
 </tr></table>
 
 ## Element Sets
@@ -50,7 +50,7 @@ Für Faserverbundwerkstoffe empfiehlt sich ein System mit Millimetern(MPA) zu ne
 
 ## Rosetts
 
-<img src="../../img/software/ansys-acp-rosettes.png" width="300"/>
+<img src="../../img/software/ansys-acp-rosettes.PNG" width="300"/>
 
 - rot: Faserrichtung
 - grün: Transversal-/Normalenrichtung
