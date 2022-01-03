@@ -28,7 +28,7 @@ Für Faserverbundwerkstoffe empfiehlt sich ein System mit Millimetern(MPA) zu ne
 
 <table><tr>
     <td> <img src="../../img/software/ansys-acp-fabrics-general.PNG" width="300"/> </td>
-    <td> <img src="../../img/software/ansys-acp-fabrics-analysis.png" width="300"/> </td>
+    <td> <img src="../../img/software/ansys-acp-fabrics-analysis.PNG" width="300"/> </td>
 </tr></table>
 
 ### Stackup
